@@ -289,8 +289,7 @@ erDiagram
 
 <br>
 
-<!-- 여기에 이미지를 추가하세요 -->
-<!-- ![메인 화면](docs/images/main.png) -->
+![메인 화면](docs/images/mainDashboard.png)
 
 </details>
 
@@ -299,8 +298,9 @@ erDiagram
 
 <br>
 
-<!-- ![로그인 화면](docs/images/login.png) -->
-<!-- ![회원가입 화면](docs/images/signup.png) -->
+![로그인 화면](docs/images/login.png)
+
+![회원가입 화면](docs/images/signup.png)
 
 </details>
 
@@ -309,7 +309,7 @@ erDiagram
 
 <br>
 
-<!-- ![이력서 목록](docs/images/resumes.png) -->
+![이력서 목록](docs/images/resume_이력서.png)
 
 </details>
 
@@ -318,7 +318,7 @@ erDiagram
 
 <br>
 
-<!-- ![분석 결과](docs/images/analysis.png) -->
+![분석 결과](docs/images/analysis.png)
 
 </details>
 
@@ -327,7 +327,7 @@ erDiagram
 
 <br>
 
-<!-- ![모의 면접](docs/images/interview.png) -->
+![모의 면접](docs/images/모의면접.png)
 
 </details>
 
@@ -336,7 +336,7 @@ erDiagram
 
 <br>
 
-<!-- ![오답노트](docs/images/notes.png) -->
+![오답노트](docs/images/오답노프.png)
 
 </details>
 
@@ -345,7 +345,7 @@ erDiagram
 
 <br>
 
-<!-- ![관리자](docs/images/admin.png) -->
+![관리자](docs/images/admin.png)
 
 </details>
 
