@@ -2,9 +2,6 @@
 
 > PDF 이력서를 업로드하면 AI가 자동으로 분석하고, 이력서 기반 모의 면접 질문 생성·답변 채점·오답노트까지 제공하는 취업 준비 올인원 플랫폼
 
-https://workcache.com <-이걸로 도메인 만들거임
-배포하면 지우셈.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17-007396?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?logo=springboot&logoColor=white">
